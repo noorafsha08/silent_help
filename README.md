@@ -153,7 +153,7 @@ Built with passion to ensure **safety and silent emergency support** for vulnera
 **Noor Afsha**
 Final Year B.Tech CSE | Software Engineering & Cybersecurity Enthusiast
 
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio-link.com)
+[LinkedIn](https://www.linkedin.com/in/noorafsha08)
 
 ---
 
@@ -178,24 +178,3 @@ Licensed under the [MIT License](LICENSE).
 If you like this project, please ⭐ star it and share to support development.
 
 ---
-
-```
-
----
-
-### ✅ **Instructions**
-- Replace:
-  - `https://github.com/yourusername/silent-help.git` with your repo link  
-  - LinkedIn and portfolio links with your URLs
-- Add screenshots after UI implementation if needed.
-
----
-
-Let me know if you need:
-
-- **Commit message templates**  
-- **Short GitHub description**  
-- **STAR interview explanation** for Silent Help
-
-I will prepare them systematically today for your portfolio and placements this week.
-```
