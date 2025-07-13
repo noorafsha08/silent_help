@@ -1,8 +1,3 @@
-Here is your **Silent Help README.md rewritten exactly in the format you showed**, with clean headings, divisions, short phrases, and ready to **copy-paste**:
-
----
-
-````markdown
 # 🚨 Silent Help – Voice Activated Emergency SOS App
 
 A modern Android safety app enabling **hands-free emergency alerts** using **voice trigger, shake detection, and back tap gestures** with offline SMS fallback for low network areas.
